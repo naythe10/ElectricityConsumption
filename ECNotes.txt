@@ -1,0 +1,45 @@
+AI Electricity Consumption Prediction
+60% Progress Tracker
+✅ 1. Data Understanding
+ Load dataset
+ Inspect data (head, tail)
+ Check shape
+ Check data types
+ Identify target variable
+ Identify numerical & categorical features
+ Check missing values
+ Check duplicates
+📊 2. Exploratory Data Analysis (EDA)
+ Plot histogram of target variable
+ Plot boxplots
+ Plot correlation heatmap
+ Analyze distributions
+ Write observations
+🧹 3. Data Cleaning
+ Handle missing values
+ Remove duplicates
+ Correct data types
+ Encode categorical features
+ Prepare preprocessing pipeline
+📦 4. Outlier Detection
+ Detect outliers (Boxplot/IQR)
+ Decide: keep, remove, or cap
+ Document findings
+📈 5. Histograms (Graph 13)
+ Monthly consumption
+ Monthly income
+ Occupants
+ Rooms
+ Appliances
+ Other key numerical features
+⚙️ 6. Feature Engineering / Extraction
+ Create occupants_per_room
+ Create total_appliances
+ Create phones_per_person
+ Create lights_per_room
+ Create other useful features
+⭐ 7. Feature Importance
+ Correlation analysis
+ Random Forest Feature Importance
+ Rank top predictors
+ Interpret important features
